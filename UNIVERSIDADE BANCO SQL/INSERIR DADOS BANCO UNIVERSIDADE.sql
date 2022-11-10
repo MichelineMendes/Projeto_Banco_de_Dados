@@ -1,4 +1,4 @@
---USE UNIVERSIDADE;
+USE UNIVERSIDADE;
 
 INSERT INTO DBO.DEPARTAMENTO --(NOME, DECRIÇÃO, CURSOS QUE INTEGRAM)
 VALUES ('INFORMÁTICA', 'departamento que agraga cursos de áreas de tecnologia e ciência da computação', 'Sistemas para Internet, Sistemas da Informação, Ciência da computação');
